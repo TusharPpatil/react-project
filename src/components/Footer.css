@@ -1,0 +1,10 @@
+.footerdemo{
+    width: 100%;
+    height: 4rem;
+    background-color: lightcoral ;
+    padding: 0 ;
+}
+.footerdemo h5{
+     padding:15px;
+
+}
